@@ -1,0 +1,288 @@
+2014-12-03 14:07:31,906 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-03 14:07:32,071 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-03 14:07:32,093 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2014-12-03 14:08:14,794 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Benjamin Turi
+2014-12-03 14:08:15,008 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:08:15,009 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:08:15,188 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:08:15,188 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:08:15,189 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Benjamin Turi
+2014-12-03 14:08:15,496 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:08:15,496 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:08:25,241 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Ben Turi
+2014-12-03 14:08:25,428 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:08:25,428 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:08:25,560 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:08:25,560 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:08:25,561 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Ben Turi
+2014-12-03 14:08:25,762 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:08:25,762 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:08:27,083 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Ben Turi
+2014-12-03 14:08:27,268 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:08:27,268 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:08:27,395 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:08:27,395 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:08:27,396 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Ben Turi
+2014-12-03 14:08:27,590 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:08:27,591 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:08:28,881 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Ben Turi
+2014-12-03 14:08:29,058 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:08:29,058 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:08:29,208 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:08:29,209 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:08:29,209 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Ben Turi
+2014-12-03 14:08:29,436 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:08:29,436 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:08:29,441 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Ben Turi
+2014-12-03 14:08:29,628 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:08:29,629 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:08:29,782 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:08:29,783 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:08:29,783 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Ben Turi
+2014-12-03 14:08:29,993 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:08:29,994 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:08:29,996 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Ben Turi
+2014-12-03 14:08:30,163 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:08:30,163 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:08:30,286 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:08:30,286 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:08:30,287 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Ben Turi
+2014-12-03 14:08:30,511 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:08:30,511 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:08:36,468 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : @benjaminturi
+2014-12-03 14:08:36,654 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:08:36,654 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:08:36,817 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:08:36,817 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:08:36,817 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : @benjaminturi
+2014-12-03 14:08:37,085 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:08:37,085 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:08:38,331 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : @benjaminturi
+2014-12-03 14:08:38,517 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:08:38,517 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:08:38,620 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:08:38,620 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:08:38,621 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : @benjaminturi
+2014-12-03 14:08:38,812 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:08:38,812 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:32,729 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : lj_delc
+2014-12-03 14:09:32,911 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:09:32,911 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:09:33,083 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:09:33,083 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:09:33,084 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:33,280 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:33,280 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:35,341 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : lj_delc
+2014-12-03 14:09:35,519 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:09:35,519 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:09:35,661 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:09:35,661 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:09:35,661 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:35,892 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:35,893 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:35,897 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : lj_delc
+2014-12-03 14:09:36,065 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:09:36,066 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:09:36,220 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:09:36,220 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:09:36,220 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:36,416 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:36,417 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:36,925 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : lj_delc
+2014-12-03 14:09:37,101 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:09:37,102 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:09:37,239 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:09:37,240 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:09:37,240 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:37,498 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:37,499 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:37,502 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : lj_delc
+2014-12-03 14:09:37,667 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:09:37,667 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:09:37,817 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:09:37,818 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:09:37,818 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:38,029 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:38,029 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:38,035 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : lj_delc
+2014-12-03 14:09:38,206 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:09:38,206 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:09:38,342 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:09:38,343 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:09:38,343 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:38,562 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:38,563 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:50,532 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:50,733 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:50,733 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:51,092 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:51,289 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:51,289 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:51,431 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:51,630 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:51,630 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:09:51,759 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : lj_delc
+2014-12-03 14:09:51,957 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:09:51,957 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:10:05,666 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : LJ_DELC
+2014-12-03 14:10:05,903 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:10:05,903 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:10:06,673 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : LJ_DELC
+2014-12-03 14:10:06,903 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:10:06,903 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:10:06,906 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : LJ_DELC
+2014-12-03 14:10:07,126 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:10:07,126 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:10:08,820 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : LJ_DELC
+2014-12-03 14:10:09,016 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:10:09,017 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:10:09,034 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : LJ_DELC
+2014-12-03 14:10:09,311 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:10:09,311 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:10:09,322 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : LJ_DELC
+2014-12-03 14:10:09,539 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:10:09,539 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:10:09,731 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : LJ_DELC
+2014-12-03 14:10:09,931 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:10:09,931 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:06,205 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Luis Del Castillo
+2014-12-03 14:11:06,388 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:06,388 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:06,546 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:06,547 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:06,547 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Luis Del Castillo
+2014-12-03 14:11:07,774 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:07,774 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:07,778 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Luis Del Castillo
+2014-12-03 14:11:07,953 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:07,953 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:08,083 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:08,083 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:08,084 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Luis Del Castillo
+2014-12-03 14:11:08,293 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:08,293 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:08,299 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Luis Del Castillo
+2014-12-03 14:11:08,483 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:08,483 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:08,607 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:08,608 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:08,608 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Luis Del Castillo
+2014-12-03 14:11:08,805 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:08,805 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:08,809 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Luis Del Castillo
+2014-12-03 14:11:08,975 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:08,975 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:09,111 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:09,111 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:09,112 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Luis Del Castillo
+2014-12-03 14:11:09,323 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:09,323 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:09,328 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Luis Del Castillo
+2014-12-03 14:11:09,506 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:09,507 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:09,673 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:09,674 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:09,674 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Luis Del Castillo
+2014-12-03 14:11:09,874 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:09,874 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:16,745 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Emily Turi
+2014-12-03 14:11:16,911 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:16,911 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:17,058 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:17,058 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:17,059 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Emily Turi
+2014-12-03 14:11:17,257 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:17,258 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:18,590 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Emily Turi
+2014-12-03 14:11:18,761 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:18,761 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:18,930 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:18,931 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:18,931 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Emily Turi
+2014-12-03 14:11:19,146 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:19,146 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:19,150 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Emily Turi
+2014-12-03 14:11:19,336 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:19,336 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:19,503 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:19,504 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:19,504 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Emily Turi
+2014-12-03 14:11:19,700 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:19,700 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:19,702 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Emily Turi
+2014-12-03 14:11:19,869 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:19,869 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:20,003 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:20,004 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:20,004 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Emily Turi
+2014-12-03 14:11:20,221 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:20,221 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:20,226 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Emily Turi
+2014-12-03 14:11:20,407 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:20,407 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:20,499 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:20,499 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:20,500 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Emily Turi
+2014-12-03 14:11:20,695 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:20,695 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:20,697 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Emily Turi
+2014-12-03 14:11:20,878 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:20,879 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:21,018 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:21,018 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:21,019 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Emily Turi
+2014-12-03 14:11:21,269 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:21,269 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:21,276 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Searching for Targets from Twitter Plugin. Search term is : Emily Turi
+2014-12-03 14:11:21,454 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - [{'message': 'Your credentials do not allow access to this resource', 'code': 220}]
+2014-12-03 14:11:21,454 - yapsy_loaded_plugin_Twitter_Plugin_0 - ERROR - Error searching for targets in Twitter plugin.
+2014-12-03 14:11:21,582 - yapsy_loaded_plugin_Flickr_Plugin_0 - ERROR - HTTP Error 403: Forbidden
+2014-12-03 14:11:21,582 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - 0 possible targets were found matching the search query
+2014-12-03 14:11:21,583 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : Emily Turi
+2014-12-03 14:11:21,774 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2014-12-03 14:11:21,774 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2014-12-03 14:11:55,544 - yapsy_loaded_plugin_Flickr_Plugin_1 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-03 14:11:55,546 - yapsy_loaded_plugin_Instagram_Plugin_1 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-03 14:11:55,552 - yapsy_loaded_plugin_Twitter_Plugin_1 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2014-12-03 14:23:43,840 - yapsy_loaded_plugin_Flickr_Plugin_2 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-03 14:23:43,846 - yapsy_loaded_plugin_Instagram_Plugin_2 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-03 14:23:43,850 - yapsy_loaded_plugin_Twitter_Plugin_2 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2014-12-03 14:24:57,988 - yapsy_loaded_plugin_Instagram_Plugin_2 - ERROR - 'code'
+2014-12-03 14:25:01,424 - yapsy_loaded_plugin_Flickr_Plugin_3 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-03 14:25:01,429 - yapsy_loaded_plugin_Instagram_Plugin_3 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-03 14:25:01,435 - yapsy_loaded_plugin_Twitter_Plugin_3 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2014-12-03 14:26:13,522 - yapsy_loaded_plugin_Instagram_Plugin_3 - ERROR - 'code'
+2014-12-03 14:26:15,550 - yapsy_loaded_plugin_Flickr_Plugin_4 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-03 14:26:15,554 - yapsy_loaded_plugin_Instagram_Plugin_4 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-03 14:26:15,559 - yapsy_loaded_plugin_Twitter_Plugin_4 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2014-12-03 14:35:49,228 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-03 14:35:49,391 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-03 14:35:49,409 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2014-12-08 15:10:18,567 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-08 15:10:18,790 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-08 15:10:18,823 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2014-12-08 20:18:57,112 - yapsy_loaded_plugin_Flickr_Plugin_1 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-08 20:18:57,115 - yapsy_loaded_plugin_Instagram_Plugin_1 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-08 20:18:57,118 - yapsy_loaded_plugin_Twitter_Plugin_1 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2014-12-11 15:24:29,954 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2014-12-11 15:24:30,133 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2014-12-11 15:24:30,168 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2015-02-09 15:55:47,934 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2015-02-09 15:55:48,135 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2015-02-09 15:55:48,179 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2015-02-09 15:57:01,824 - yapsy_loaded_plugin_Flickr_Plugin_1 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2015-02-09 15:57:01,827 - yapsy_loaded_plugin_Instagram_Plugin_1 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2015-02-09 15:57:01,830 - yapsy_loaded_plugin_Twitter_Plugin_1 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2015-03-27 17:54:23,921 - yapsy_loaded_plugin_Flickr_Plugin_0 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2015-03-27 17:54:24,166 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2015-03-27 17:54:24,213 - yapsy_loaded_plugin_Twitter_Plugin_0 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2015-03-27 17:54:58,476 - yapsy_loaded_plugin_Instagram_Plugin_0 - DEBUG - Attempting to search for targets. Search term was : 2bridges
+2015-03-27 17:55:00,109 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Error searching for targets with instagram plugin.
+2015-03-27 17:55:00,109 - yapsy_loaded_plugin_Instagram_Plugin_0 - ERROR - Unable to parse response, not valid JSON.
+2015-03-27 17:57:11,016 - yapsy_loaded_plugin_Flickr_Plugin_1 - DEBUG - Trying to load the labels file for the  flickr plugin .
+2015-03-27 17:57:11,079 - yapsy_loaded_plugin_Instagram_Plugin_1 - DEBUG - Trying to load the labels file for the  instagram plugin .
+2015-03-27 17:57:11,104 - yapsy_loaded_plugin_Twitter_Plugin_1 - DEBUG - Trying to load the labels file for the  twitter plugin .
+2015-03-27 17:57:33,736 - yapsy_loaded_plugin_Instagram_Plugin_1 - DEBUG - Attempting to search for targets. Search term was : _2bridges
+2015-03-27 17:57:35,028 - yapsy_loaded_plugin_Instagram_Plugin_1 - ERROR - Error searching for targets with instagram plugin.
+2015-03-27 17:57:35,028 - yapsy_loaded_plugin_Instagram_Plugin_1 - ERROR - Unable to parse response, not valid JSON.

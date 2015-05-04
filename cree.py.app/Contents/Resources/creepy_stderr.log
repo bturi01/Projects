@@ -1,0 +1,12 @@
+DEBUG:yapsy_loaded_plugin_Flickr_Plugin_0:Trying to load the labels file for the  flickr plugin .
+DEBUG:yapsy_loaded_plugin_Instagram_Plugin_0:Trying to load the labels file for the  instagram plugin .
+DEBUG:yapsy_loaded_plugin_Twitter_Plugin_0:Trying to load the labels file for the  twitter plugin .
+DEBUG:yapsy_loaded_plugin_Instagram_Plugin_0:Attempting to search for targets. Search term was : 2bridges
+ERROR:yapsy_loaded_plugin_Instagram_Plugin_0:Error searching for targets with instagram plugin.
+ERROR:yapsy_loaded_plugin_Instagram_Plugin_0:Unable to parse response, not valid JSON.
+DEBUG:yapsy_loaded_plugin_Flickr_Plugin_1:Trying to load the labels file for the  flickr plugin .
+DEBUG:yapsy_loaded_plugin_Instagram_Plugin_1:Trying to load the labels file for the  instagram plugin .
+DEBUG:yapsy_loaded_plugin_Twitter_Plugin_1:Trying to load the labels file for the  twitter plugin .
+DEBUG:yapsy_loaded_plugin_Instagram_Plugin_1:Attempting to search for targets. Search term was : _2bridges
+ERROR:yapsy_loaded_plugin_Instagram_Plugin_1:Error searching for targets with instagram plugin.
+ERROR:yapsy_loaded_plugin_Instagram_Plugin_1:Unable to parse response, not valid JSON.
